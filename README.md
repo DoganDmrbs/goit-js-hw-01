@@ -1,6 +1,6 @@
 # goit-js-hw-01
 
-This project contains three JavaScript tasks that demonstrate basic JavaScript functionality.
+
 
 ## Task 1
 
